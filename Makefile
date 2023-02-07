@@ -1,0 +1,2 @@
+migrate:
+	./mvnnw flyway:info
